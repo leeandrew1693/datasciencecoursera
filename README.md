@@ -1,2 +1,1 @@
-# datasciencecoursera
-Repo for the JHU data science class
+## This is a markdown file
